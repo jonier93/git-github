@@ -1,5 +1,5 @@
-var1 = 10
-var2 = 20
-var3 = 40
-sum = var1 + var2 + var3
+num1 = 10
+num2 = 20
+num3 = 40
+sum = num1 + num2 + num3
 print(sum)
